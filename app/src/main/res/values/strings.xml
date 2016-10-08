@@ -1,6 +1,4 @@
 <resources>
     <string name="app_name">ScavGame</string>
     <string name="title_activity_maps">Map</string>
-    <string name="title_activity_add_opponent">AddOpponent</string>
-    <string name="title_activity_new_lobby">NewLobby</string>
 </resources>

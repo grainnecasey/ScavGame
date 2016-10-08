@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application>
+        <activity
+            android:name="com.example.grainne.scavgame.GameSettingsActivity"
+            android:label="@string/title_activity_game_settings"></activity>
+    </application>
+</manifest>

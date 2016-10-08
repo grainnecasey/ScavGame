@@ -1,0 +1,18 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=6E:E8:67:37:5E:C8:A3:9C:CE:7D:CE:1C:E0:9E:6B:36:D4:EA:5C:39%3Bcom.example.grainne.scavgame
+
+    You can also add your credentials to an existing key, using this line:
+    6E:E8:67:37:5E:C8:A3:9C:CE:7D:CE:1C:E0:9E:6B:36:D4:EA:5C:39;com.example.grainne.scavgame
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">
+        AIzaSyBRYzbHIf4pjchdFiWwjgIiCyfAs0YYEnY
+    </string>
+</resources>
